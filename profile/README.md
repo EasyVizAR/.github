@@ -9,7 +9,7 @@ modular edge computing system that augments the capabilities of AR devices and
 ensures secure and responsive exchange of critical data among team members of
 different roles.
 
-# Edge Server
+# Setup
 
-Follow the instructions in the [edge-server](https://github.com/EasyVizAR/edge-server)
-README to set up the edge server.
+For instructions on setting up an edge server and EasyVizAR headsets,
+please refer to the [installation guide](https://easyvizar.github.io/installation.html).
